@@ -403,7 +403,7 @@
   },
   "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
     "criteria": {
-      "has_item": "2022-05-30 23:19:47 +0800"
+      "has_item": "2022-05-31 13:09:22 +0800"
     },
     "done": true
   },
@@ -1252,12 +1252,6 @@
   "projecte:recipes/projecte/purple_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2022-05-23 18:58:10 +0800"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
-    "criteria": {
-      "has_item": "2022-05-30 23:26:26 +0800"
     },
     "done": true
   },
@@ -2727,7 +2721,7 @@
   },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
-      "has_item": "2022-05-30 23:19:47 +0800"
+      "has_item": "2022-05-31 13:09:22 +0800"
     },
     "done": true
   },
@@ -2859,7 +2853,7 @@
   },
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
     "criteria": {
-      "has_item": "2022-05-30 23:19:47 +0800"
+      "has_item": "2022-05-31 13:09:22 +0800"
     },
     "done": true
   },
@@ -3299,12 +3293,6 @@
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2022-05-23 21:17:51 +0800"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
-    "criteria": {
-      "has_item": "2022-05-30 23:26:26 +0800"
     },
     "done": true
   },
@@ -3917,12 +3905,6 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/cake/earth": {
     "criteria": {
       "has_slime": "2022-05-28 23:10:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2022-05-30 23:31:47 +0800"
     },
     "done": true
   },
@@ -5063,7 +5045,7 @@
   },
   "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
     "criteria": {
-      "has_item": "2022-05-30 23:19:47 +0800"
+      "has_item": "2022-05-31 13:09:22 +0800"
     },
     "done": true
   },

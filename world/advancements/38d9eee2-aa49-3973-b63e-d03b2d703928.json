@@ -185,12 +185,6 @@
     },
     "done": true
   },
-  "undergarden:recipes/undergarden_group/catalyst": {
-    "criteria": {
-      "has_iron": "2022-05-31 16:28:34 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-05-25 15:29:35 +0800"
@@ -731,12 +725,6 @@
   "ae2:recipes/tools/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2022-05-28 04:07:19 +0800"
-    },
-    "done": true
-  },
-  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
-    "criteria": {
-      "has_blaze_powder": "2022-05-31 16:28:34 +0800"
     },
     "done": true
   },
@@ -1842,12 +1830,6 @@
     },
     "done": true
   },
-  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
-    "criteria": {
-      "has_torch": "2022-05-31 16:28:34 +0800"
-    },
-    "done": true
-  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-05-25 15:23:23 +0800"
@@ -2289,12 +2271,6 @@
   "ae2:recipes/ae2.main/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2022-05-25 15:10:47 +0800"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/root": {
-    "criteria": {
-      "tick": "2022-05-31 16:28:35 +0800"
     },
     "done": true
   },

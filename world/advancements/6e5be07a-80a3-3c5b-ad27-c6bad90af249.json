@@ -1026,6 +1026,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/smogstem_boat": {
+    "criteria": {
+      "in_water": "2022-05-31 15:45:29 +0800"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/sinew_fiber": {
     "criteria": {
       "has_item": "2022-05-23 16:45:15 +0800"
@@ -1582,6 +1588,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2022-05-31 15:53:00 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2022-05-21 20:51:28 +0800"
@@ -2032,6 +2044,18 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2022-05-31 15:53:01 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/earth/crystal_block": {
+    "criteria": {
+      "has_item": "2022-05-31 17:07:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-05-21 21:08:18 +0800"
@@ -2439,6 +2463,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2022-05-31 15:45:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-05-21 20:54:17 +0800"
@@ -2544,6 +2574,12 @@
   "projecte:recipes/projecte/transmutation_table": {
     "criteria": {
       "has_philo_stone": "2022-05-24 00:05:26 +0800"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2022-05-31 15:40:53 +0800"
     },
     "done": true
   },
@@ -3280,6 +3316,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/catalyst": {
+    "criteria": {
+      "has_iron": "2022-05-31 15:50:57 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2022-05-21 22:44:54 +0800"
@@ -3823,6 +3865,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2022-05-31 15:53:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-27 05:26:14 +0800"
@@ -3922,6 +3970,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2022-05-23 12:09:22 +0800"
+    },
+    "done": true
+  },
+  "whisperwoods:recipes/whisperwoods/hand_of_fate": {
+    "criteria": {
+      "has_blaze_powder": "2022-05-31 15:40:53 +0800"
     },
     "done": true
   },
@@ -4431,6 +4485,12 @@
   "projecte:recipes/projecte/iron_band": {
     "criteria": {
       "has_lava": "2022-05-23 00:36:26 +0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/grongle_boat": {
+    "criteria": {
+      "in_water": "2022-05-31 15:45:29 +0800"
     },
     "done": true
   },
@@ -5885,6 +5945,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2022-05-21 21:15:28 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/crystal_smelting": {
+    "criteria": {
+      "has_crystal": "2022-05-31 17:07:41 +0800"
     },
     "done": true
   },
