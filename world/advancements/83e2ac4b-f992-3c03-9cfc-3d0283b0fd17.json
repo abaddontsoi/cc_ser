@@ -595,6 +595,12 @@
     },
     "done": true
   },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2022-06-02 01:00:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-05-21 15:35:29 +0800"
@@ -838,6 +844,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-05-21 15:33:39 +0800"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blue_dye_from_flax_flowers": {
+    "criteria": {
+      "has_item": "2022-06-02 00:56:25 +0800"
     },
     "done": true
   },
@@ -1166,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2022-05-23 09:48:49 +0800"
@@ -1199,6 +1217,12 @@
   "projecte:recipes/projecte/purple_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2022-05-23 20:05:47 +0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2022-06-02 10:25:47 +0800"
     },
     "done": true
   },
@@ -1307,6 +1331,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2022-05-22 00:21:31 +0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2022-06-02 10:22:04 +0800"
     },
     "done": true
   },
@@ -1736,6 +1766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-21 19:00:16 +0800"
@@ -1859,6 +1895,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2022-05-22 19:46:37 +0800"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/chiselsandbits/quill": {
+    "criteria": {
+      "has_tag_a": "2022-06-02 00:35:35 +0800"
     },
     "done": true
   },
@@ -2179,6 +2221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
     "criteria": {
       "has_planks": "2022-05-21 14:48:31 +0800"
@@ -2249,6 +2297,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-05-21 15:32:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
     },
     "done": true
   },
@@ -2333,6 +2387,12 @@
   "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2022-05-21 16:04:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
     },
     "done": true
   },
@@ -2477,6 +2537,12 @@
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-21 20:22:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
     },
     "done": true
   },
@@ -2648,6 +2714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-05-21 15:31:13 +0800"
@@ -2741,6 +2813,12 @@
   "chunkloaders:recipes/search/basic_chunk_loader2": {
     "criteria": {
       "item": "2022-05-23 13:25:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
     },
     "done": true
   },
@@ -3077,6 +3155,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2022-06-02 10:25:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-24 20:16:46 +0800"
@@ -3128,6 +3212,12 @@
   "biomesoplenty:recipes/redstone/dead_fence_gate": {
     "criteria": {
       "has_planks": "2022-05-22 22:25:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
     },
     "done": true
   },
@@ -3248,6 +3338,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2022-05-21 21:01:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
     },
     "done": true
   },
@@ -3398,6 +3494,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2022-05-21 15:44:26 +0800"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/flax_string": {
+    "criteria": {
+      "has_item": "2022-06-02 00:56:17 +0800"
     },
     "done": true
   },
@@ -3598,6 +3700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2022-05-21 14:48:31 +0800"
@@ -3619,6 +3727,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2022-05-21 20:11:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2022-06-02 10:20:13 +0800"
     },
     "done": true
   },
@@ -4080,6 +4194,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/aeternalis_fuel_block_deconstruct": {
+    "criteria": {
+      "has_aeternalis_fuel_block": "2022-06-02 13:31:36 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-05-21 15:34:12 +0800"
@@ -4531,6 +4651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2022-05-23 01:08:18 +0800"
@@ -4855,6 +4981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2022-05-21 14:48:31 +0800"
@@ -4933,6 +5065,13 @@
     },
     "done": true
   },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2022-06-02 00:56:06 +0800",
+      "flax_fibers": "2022-06-02 00:56:17 +0800"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-24 20:16:46 +0800"
@@ -4954,6 +5093,12 @@
   "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
     "criteria": {
       "has_template": "2022-05-21 14:48:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
     },
     "done": true
   },

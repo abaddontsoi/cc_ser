@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/klein_star_vier": {
+    "criteria": {
+      "has_components": "2022-06-02 00:41:52 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2022-05-21 15:22:30 +0800"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_purple": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/dm_sword": {
     "criteria": {
       "has_matter": "2022-05-23 13:38:46 +0800"
@@ -371,6 +383,12 @@
     },
     "done": true
   },
+  "projecte:alchemical_bag": {
+    "criteria": {
+      "bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-23 23:47:53 +0800"
@@ -438,6 +456,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/life_stone": {
+    "criteria": {
+      "has_soul": "2022-06-02 00:53:46 +0800"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/tinkers_gadgetry": {
     "criteria": {
       "has_item": "2022-05-23 15:29:56 +0800"
@@ -453,6 +477,12 @@
   "littlelogistics:recipes/transportation/seater_car": {
     "criteria": {
       "has_item": "2022-05-23 14:46:41 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_orange": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -537,6 +567,12 @@
   "chiselsandbits:recipes/chiselsandbits/chiseled_printer": {
     "criteria": {
       "has_l": "2022-05-21 14:11:28 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_lime": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -639,6 +675,18 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2022-05-23 22:56:27 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_light_blue": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2022-06-02 00:42:29 +0800"
     },
     "done": true
   },
@@ -783,6 +831,12 @@
   "tconstruct:recipes/tconstruct/general/common/gold_bars": {
     "criteria": {
       "has_ingot": "2022-05-21 15:05:31 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_yellow": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -996,6 +1050,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_green": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-23 20:25:36 +0800"
@@ -1066,6 +1126,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-05-21 14:55:13 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_red": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -1219,6 +1285,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/torch_ditchbulb_paste": {
+    "criteria": {
+      "has_stick": "2022-06-02 17:21:21 +0800"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/philosophers_stone_alt": {
     "criteria": {
       "has_glowstone": "2022-05-23 19:04:15 +0800"
@@ -1255,6 +1327,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2022-06-01 22:48:42 +0800"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2022-05-21 14:04:40 +0800"
@@ -1282,6 +1360,12 @@
   "ae2:recipes/tools/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2022-05-28 16:08:51 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/klein_star_zwei": {
+    "criteria": {
+      "has_components": "2022-06-02 00:40:57 +0800"
     },
     "done": true
   },
@@ -1366,6 +1450,12 @@
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2022-05-23 09:03:36 +0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2022-06-02 00:32:48 +0800"
     },
     "done": true
   },
@@ -2100,6 +2190,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_light_gray": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-05-24 11:05:39 +0800"
@@ -2121,6 +2217,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2022-05-23 10:57:50 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_white": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -2268,6 +2370,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2022-06-02 19:20:32 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-05-21 14:53:46 +0800"
@@ -2283,6 +2391,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-05-23 10:42:47 +0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/undergarden_scaffolding": {
+    "criteria": {
+      "has_stick": "2022-06-02 17:21:21 +0800"
     },
     "done": true
   },
@@ -2725,6 +2839,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/redstone/rapid_hopper": {
+    "criteria": {
+      "has_item": "2022-06-01 22:23:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2022-05-21 15:08:48 +0800"
@@ -2827,6 +2947,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_cyan": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-05-21 23:36:23 +0800"
@@ -2842,6 +2968,12 @@
   "projecte:recipes/projecte/lime_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2022-05-23 18:58:10 +0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/shard_torch": {
+    "criteria": {
+      "has_stick": "2022-06-02 17:21:21 +0800"
     },
     "done": true
   },
@@ -3296,6 +3428,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2022-06-01 22:48:42 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-05-23 23:47:53 +0800"
@@ -3464,9 +3602,21 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_gray": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2022-05-23 20:39:28 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_magenta": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -3668,6 +3818,12 @@
     },
     "done": true
   },
+  "littlelogistics:recipes/transportation/fluid_hopper": {
+    "criteria": {
+      "has_item": "2022-06-01 22:23:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2022-05-21 14:15:22 +0800"
@@ -3689,6 +3845,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2022-05-28 23:04:45 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/klein_star_omega": {
+    "criteria": {
+      "has_components": "2022-06-02 00:42:14 +0800"
     },
     "done": true
   },
@@ -3878,6 +4040,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2022-06-02 00:26:47 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-05-21 14:17:32 +0800"
@@ -3917,6 +4085,12 @@
   "projecte:recipes/projecte/light_gray_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2022-05-23 18:58:10 +0800"
+    },
+    "done": true
+  },
+  "projecte:klein_star_ein": {
+    "criteria": {
+      "klein_star": "2022-06-02 00:40:57 +0800"
     },
     "done": true
   },
@@ -4031,6 +4205,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2022-05-24 18:01:31 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_pink": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -4181,6 +4361,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2022-05-28 16:08:51 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/klein_star_sphere": {
+    "criteria": {
+      "has_components": "2022-06-02 00:42:07 +0800"
     },
     "done": true
   },
@@ -4719,6 +4905,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_black": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2022-05-23 09:03:36 +0800"
@@ -4839,6 +5031,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/conversions/dye_bag_brown": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-05-23 10:28:43 +0800"
@@ -4944,6 +5142,12 @@
   "silentgear:recipes/silentgear/bort_from_block": {
     "criteria": {
       "has_item": "2022-05-25 03:06:53 +0800"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/slingshot": {
+    "criteria": {
+      "has_stick": "2022-06-02 17:21:21 +0800"
     },
     "done": true
   },
@@ -5082,6 +5286,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-05-21 14:11:51 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/conversions/dye_bag_blue": {
+    "criteria": {
+      "has_alchemical_bag": "2022-06-02 00:22:28 +0800"
     },
     "done": true
   },
@@ -5304,6 +5514,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2022-05-24 11:05:39 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/klein_star_drei": {
+    "criteria": {
+      "has_components": "2022-06-02 00:41:32 +0800"
     },
     "done": true
   },
