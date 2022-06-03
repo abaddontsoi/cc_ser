@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2022-06-03 20:47:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2022-05-22 19:46:22 +0800"
@@ -95,9 +101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2022-06-03 20:47:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2022-05-21 16:26:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-03 21:48:35 +0800"
     },
     "done": true
   },
@@ -302,6 +320,12 @@
   "biomesoplenty:recipes/misc/mud_brick_from_smelting": {
     "criteria": {
       "has_mud_ball": "2022-05-23 09:26:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2022-06-03 20:47:21 +0800"
     },
     "done": true
   },
@@ -877,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-06-03 20:47:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2022-05-21 21:01:33 +0800"
@@ -1031,6 +1061,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-05-21 15:39:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2022-06-03 20:47:21 +0800"
     },
     "done": true
   },
@@ -2209,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-06-03 20:47:21 +0800"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2022-05-22 00:21:31 +0800"
@@ -2543,6 +2585,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2022-06-01 21:10:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-06-03 20:47:21 +0800"
     },
     "done": true
   },
@@ -3194,6 +3242,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-05-21 15:33:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-06-03 20:47:21 +0800"
     },
     "done": true
   },
@@ -4230,6 +4284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-03 21:48:35 +0800"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/red_alchemical_bag": {
     "criteria": {
       "has_alchemical_chest": "2022-05-23 20:05:47 +0800"
@@ -4423,6 +4483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2022-06-03 20:47:21 +0800"
+    },
+    "done": true
+  },
   "projecte:recipes/misc/conversions/iron_ingot_to_gold_ingot": {
     "criteria": {
       "has_iron_ingot": "2022-05-23 10:20:27 +0800"
@@ -4558,6 +4624,12 @@
   "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2022-05-21 15:37:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2022-06-03 21:48:35 +0800"
     },
     "done": true
   },
@@ -4846,6 +4918,12 @@
   "ae2:recipes/redstone/misc/vanilla_daylight_detector": {
     "criteria": {
       "has_quartz": "2022-05-22 19:46:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2022-06-03 20:47:21 +0800"
     },
     "done": true
   },
