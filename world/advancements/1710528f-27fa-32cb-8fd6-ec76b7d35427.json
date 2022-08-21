@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2022-06-04 14:57:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2022-05-23 02:12:05 +0800"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-06-04 14:59:20 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2022-05-23 01:43:32 +0800"
@@ -350,6 +362,12 @@
   "minecraft:recipes/building_blocks/prismarine_stairs": {
     "criteria": {
       "has_prismarine": "2022-05-30 00:30:32 +0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2022-06-04 14:57:41 +0800"
     },
     "done": true
   },
@@ -656,6 +674,7 @@
       "clover_patch": "2022-05-23 23:11:01 +0800",
       "maple_woods": "2022-05-23 00:05:39 +0800",
       "crystalline_chasm": "2022-05-24 00:20:21 +0800",
+      "withered_abyss": "2022-06-04 14:59:37 +0800",
       "field": "2022-05-21 23:23:44 +0800",
       "bog": "2022-05-28 22:43:05 +0800",
       "coniferous_forest": "2022-05-22 23:52:24 +0800",
@@ -793,6 +812,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-05-23 14:20:06 +0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2022-06-04 14:57:41 +0800"
     },
     "done": true
   },
@@ -1542,6 +1567,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-05-21 23:55:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-06-04 14:57:41 +0800"
     },
     "done": true
   },
@@ -2331,6 +2362,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2022-05-23 01:26:49 +0800"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/philosophers_stone_alt": {
+    "criteria": {
+      "has_glowstone": "2022-06-04 14:57:41 +0800"
     },
     "done": true
   },
@@ -3369,6 +3406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-06-04 14:57:41 +0800"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_fishing_rod": "2022-05-21 23:21:24 +0800",
@@ -3813,6 +3856,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2022-06-04 14:57:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-05-22 01:25:24 +0800"
@@ -3987,6 +4036,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/philosophers_stone": {
+    "criteria": {
+      "has_glowstone": "2022-06-04 14:57:41 +0800"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/automatic_tee_junction_rail": {
     "criteria": {
       "has_item": "2022-05-23 16:23:19 +0800"
@@ -4032,6 +4087,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2022-05-23 22:10:45 +0800"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2022-06-04 14:57:41 +0800"
     },
     "done": true
   },
@@ -4285,6 +4346,12 @@
   "silentgear:recipes/misc/diamond_from_shards": {
     "criteria": {
       "has_item": "2022-05-22 00:00:12 +0800"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2022-06-04 14:57:41 +0800"
     },
     "done": true
   },
